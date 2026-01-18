@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# System
+.DS_Store
+Thumbs.db
